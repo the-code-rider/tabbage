@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "tabbage",
+  "version": "2.0.0",
+  "description": "Create custom URL groups and open them in vertically, horizontally or in grid split windows, with one-click close per group.",
+  "icons":{
+    "16": "tabbage-icon.png",
+    "32": "tabbage-icon.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "tabbage",
+    "default_icon":{
+      "16": "tabbage-icon.png",
+      "32": "tabbage-icon.png"
+    }
+  },
+  "permissions": [
+    "storage",
+    "tabs",
+    "windows"
+  ]
+}
