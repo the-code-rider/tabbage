@@ -18,6 +18,12 @@ You can:
 
 Tabbage = “tab” + “cabbage” 🍃 → a cute name for a multi-layered tab manager.
 
+
+
+https://github.com/user-attachments/assets/cef969be-4047-4709-ba9a-664e7d4b77dc
+
+
+
 ---
 
 #  Installation (Developer Mode)
